@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pasquale.myzero",
+      "sha256_cert_fingerprints": [
+        "96:1F:4D:5D:91:D4:99:CA:64:CE:85:15:AB:C3:D1:B2:B6:93:47:2F:1E:68:69:DB:E1:DD:6E:1E:76:07:FA:4D"
+      ]
+    }
+  }]
